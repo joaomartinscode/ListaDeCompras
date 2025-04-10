@@ -12,12 +12,6 @@ Instituto Politécnico de Portalegre
 Algoritmos e Estrutura de Dados
 Ficha 3 - Projeto 1 - Lista de Compras
 Engenharia Informática - 1.º Ano
-
-Alunos:
-	Joao Martins	no. 25856
-	Paulo Campos	no. 25721
-
-Data de Realização: 10/04/2025
 */
 
 /*
